@@ -1,16 +1,24 @@
-### Hi there 👋
+<p>
+Hi coders, I'm Julia! ✌ <br>
+<img src=".docs/header.gif" width="400">
+</p>
 
-<!--
-**jbresolinn/jbresolinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Brazilian, software engineering student, developer, gamer in the free hours and passionate about everything that technology provides! 😊
+</p>
+<br>
+<a href="https://linktr.ee/juliabresolin">
+  <img align="left" alt="social media button" width="160" src=".docs/button.svg" />
+</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+⚠ The profile repositories are being updated!
+<br>
+<br>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything done with a lot of love ❤ by Julia Bresolin.
