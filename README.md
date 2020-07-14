@@ -1,7 +1,7 @@
 # Hi coders, I'm Julia! ✌ <br>
 
 <p>
-Brazilian, developer, gamer in the free hours and passionate about everything that technology provides!
+Brazilian, software engineering student, developer, gamer in the free hours and passionate about everything that technology provides!
 </p>
 <br>
 <p>
@@ -19,9 +19,6 @@ Brazilian, developer, gamer in the free hours and passionate about everything th
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 </p>
-<br>
-<br>
-<br>
 <br>
 <br>
 ⚠ The profile repositories are being updated!
