@@ -5,7 +5,7 @@ Brazilian, software engineering student, developer, gamer in the free hours and 
 </p>
 <br>
 <p>
- You can follow me on <a href="https://linktr.ee/juliabresolin">social networks</a>! (I swear I'm a love 😊)
+ You can follow me on <a target="_blank" href="https://linktr.ee/juliabresolin">social networks</a>! (I swear I'm a love 😊)
 </p>
 <br>
 
