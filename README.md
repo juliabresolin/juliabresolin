@@ -11,7 +11,9 @@ Brazilian, software engineering student, developer, gamer in the free hours, ast
 ⚠ The profile repositories are being updated!
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jbresolinn&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jbresolinn&count_private=true&show_icons=true&theme=graywhite&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbresolinn&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <br>
 
