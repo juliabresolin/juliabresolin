@@ -15,4 +15,4 @@ I'm brazilian, software engineering student, fullstack developer at [JBQ Global]
 
 ---
 
-Everything done with a lot of love ❤ by Julia Bresolin.
+Everything done with a lot of love ❤ by Julia Bresolin. 
