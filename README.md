@@ -7,7 +7,7 @@
 
 
 <p>
-I'm brazilian, software engineering student, fullstack developer at [JBQ Global](https://jbq.com.br/), gamer in the free hours, astronomy enthusiastic and passionate about everything that technology provides!
+I'm brazilian, software engineering student, fullstack developer at <a href="https://jbq.com.br/">JBQ Global</a>, gamer in the free hours, astronomy enthusiastic and passionate about everything that technology provides!
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jbresolinn&show_icons=true&hide_border=true&theme=graywhite)
