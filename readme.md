@@ -1,4 +1,4 @@
-Software Developer @JBQ
+Software Developer @ JBQ
 
 [![Twitter Badge](https://img.shields.io/badge/-@juliabresolin-181E27?style=flat-square&labelColor=181E27&logo=twitter&logoColor=white&link=https://twitter.com/juliabresolin)](https://twitter.com/juliabresolin) 
 [![Linkedin Badge](https://img.shields.io/badge/-julia%20bresolin-181E27?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-bresolin/)](https://www.linkedin.com/in/julia-bresolin/) 
