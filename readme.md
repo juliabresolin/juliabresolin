@@ -1,4 +1,4 @@
-Software Developer @ JBQ
+Software Developer
 
 [juliabresolin.com](https://juliabresolin.com/)
 
