@@ -1,6 +1,6 @@
 Software Developer @ JBQ
 
-[bento.me/xulia](https://bento.me/xulia)
+[juliabresolin.com](https://juliabresolin.com/)
 
 Enthusiast of the best web development technologies.
 
